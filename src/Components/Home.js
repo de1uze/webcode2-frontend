@@ -5,7 +5,7 @@ function Home() {
     <>
       
       <h1>Welcome to CRM</h1>
-      <img src='https://www.anodius.com/wp-content/uploads/2022/05/what-is-crm-system-anodius.jpg.webp' alt='opencrm'/>
+      <img src='https://thumbs.dreamstime.com/b/crm-customer-relationship-management-business-internet-techology-concept-137888377.jpg' alt='opencrm'/>
     </>
   );
 }
